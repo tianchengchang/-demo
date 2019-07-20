@@ -8,6 +8,15 @@
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
 //  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
 
+// 加载连接、断线重连模块
+var autoReconnectWsRpcClient = require("AutoReconnectWsRpcClient");
+
+//创建实例
+var client = new autoReconnectWsRpcClient();
+
+//创建连接
+client.connect("ws://127.0.0.1:36502");
+
 cc.Class({
     extends: cc.Component,
 
@@ -34,7 +43,12 @@ cc.Class({
     // onLoad () {},
 
     start () {
-
+        //连接成功
+        client.onReady(function(client1){
+            client1.proxy.hello("你好，服务器", function(data){
+                cc.log(data);
+            })
+        })
     },
 
     // update (dt) {},
