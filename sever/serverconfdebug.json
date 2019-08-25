@@ -26,7 +26,11 @@
   },
   "database":{
     "mongodb":{
-      "type":"mongodb"
+        "account":"admin",
+        "pass":"ctc19950606",
+        "ip":"127.0.0.1",
+        "port":"27017",
+        "dbName":"majiang"
     }
   },
   "weixin":{

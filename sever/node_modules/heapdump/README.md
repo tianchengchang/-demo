@@ -37,14 +37,6 @@ completion of the heap dump.
 The snapshot is written synchronously to disk.  When the JS heap is large,
 it may introduce a noticeable "hitch".
 
-Previously, node-heapdump first forked the process before writing the snapshot,
-making it effectively asynchronous.  However, it broke the comparison view in
-Chrome DevTools and is fundamentally incompatible with node.js v0.12.  If you
-really want the old behavior and know what you are doing, you can enable it
-again by setting `NODE_HEAPDUMP_OPTIONS=fork` in the environment:
-
-    $ env NODE_HEAPDUMP_OPTIONS=fork node script.js
-
 On UNIX platforms, you can force a snapshot by sending the node.js process
 a SIGUSR2 signal:
 
@@ -60,11 +52,12 @@ by setting `NODE_HEAPDUMP_OPTIONS=nosignal` in the environment:
 Open [Google Chrome](https://www.google.com/intl/en/chrome/browser/) and
 press F12 to open the developer toolbar.
 
-Go to the `Profiles` tab, right-click in the tab pane and select
+Go to the `Memory` tab, right-click in the tab pane and select
 `Load profile...`.
 
 Select the dump file and click `Open`.  You can now inspect the heap snapshot
-at your leisure.
+at your leisure. Some snapshots may take a long time to load, on the order of
+minutes or even hours.
 
 Note that Chrome will refuse to load the file unless it has the `.heapsnapshot`
 extension.
