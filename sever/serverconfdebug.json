@@ -40,7 +40,9 @@
   "ids":{
       "from":10000000,
       "to":99999999,
-      "path":"data/ids.txt"
+      "path":"data/ids.txt",
+      "countpath":"data/idcounts.txt",
+      "create":"true"
   },
   "codes":{
     "-1":"客户端需要重新微信认证",

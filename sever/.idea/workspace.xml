@@ -2,128 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7fd3e9e-e738-4ee6-8a6a-26aa2ae8bfe2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/addon.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/addon.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/addon.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/addon.node" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/addon.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/addon.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/addon.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/addon.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/addon.tlog/addon.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/addon.tlog/addon.write.1u.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/addon.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/addon.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/addon.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/heapdump.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/Release/obj/addon/vc140.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/addon.vcxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/addon.vcxproj.filters" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/binding.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/build/config.gypi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/asyncworker.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/buffers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/callback.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/converters.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/errors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/maybe_types.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/methods.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/new.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/node_misc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/object_wrappers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/persistent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/scopes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/script.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/string_bytes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/v8_internals.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/doc/v8_misc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/include_dirs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_callbacks.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_callbacks_12_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_callbacks_pre_12_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_converters.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_converters_43_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_converters_pre_43_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_define_own_property_helper.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_implementation_12_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_implementation_pre_12_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_json.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_maybe_43_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_maybe_pre_43_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_new.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_object_wrap.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_persistent_12_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_persistent_pre_12_inl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_private.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_string_bytes.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_typedarray_contents.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/nan_weak.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/tools/1to2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/tools/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/node_modules/nan/tools/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/heapdump/test/test-callback-error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/memwatch.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/memwatch.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/memwatch.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/memwatch.node" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/memwatch.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/heapdiff.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/init.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.delete.12.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.delete.46.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.11.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.12.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.16.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.21.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.36.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.39.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.43.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.46.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.7.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.read.9.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.write.12.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.write.43.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link-VCTIP.write.46.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/memwatch.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/memwatch.tlog/memwatch.write.1u.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/util.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/vc140.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/Release/obj/memwatch/win_delay_load_hook.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/binding.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/config.gypi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/memwatch.vcxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/memwatch-next/build/memwatch.vcxproj.filters" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/MemoryLeak.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/binding.gyp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/binding.gyp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/lib/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/src/compat-inl.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/src/compat.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/src/heapdump-posix.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/src/heapdump-posix.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/src/heapdump-win32.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/src/heapdump-win32.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/src/heapdump.cc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/src/heapdump.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/test/test-callback-without-filename.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/test/test-callback-without-filename.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/heapdump/test/test-callback.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/heapdump/test/test-callback.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/memwatch-next/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memwatch-next/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Config.js" beforeDir="false" afterPath="$PROJECT_DIR$/core/Config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverconf.json" beforeDir="false" afterPath="$PROJECT_DIR$/serverconf.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serverconfdebug.json" beforeDir="false" afterPath="$PROJECT_DIR$/serverconfdebug.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -148,58 +28,58 @@
     <session id="-4893160">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="heapsnapshot" value="1" />
-          <entry key="js" value="10" />
-          <entry key="json" value="8" />
+          <entry key="js" value="21" />
+          <entry key="json" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="8" />
-          <entry key="JavaScript" value="10" />
+          <entry key="JSON" value="10" />
+          <entry key="JavaScript" value="21" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1232" />
-          <entry key="json" value="97" />
+          <entry key="js" value="2452" />
+          <entry key="json" value="149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="97" />
-          <entry key="JavaScript" value="1232" />
+          <entry key="JSON" value="149" />
+          <entry key="JavaScript" value="2452" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/MemoryLeak.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/IDs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="675">
+              <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Theme/FangkaMajiang/db/DataBaseManager.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+            <state relative-caret-position="493">
+              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -207,35 +87,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serverconfdebug.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+            <state relative-caret-position="601">
+              <caret line="43" column="16" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/MemoryLeakManager.js">
+        <entry file="file://$PROJECT_DIR$/serverconf.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="729">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/core/Services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/MongooseAsync.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="45" />
+            <state relative-caret-position="2137">
+              <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -250,6 +121,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ids</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -265,8 +139,11 @@
         <option value="$PROJECT_DIR$/servicesforserver/Test.js" />
         <option value="$PROJECT_DIR$/web/Memory.js" />
         <option value="$PROJECT_DIR$/web/MemoryLeak.js" />
-        <option value="$PROJECT_DIR$/serverconfdebug.json" />
         <option value="$PROJECT_DIR$/Theme/FangkaMajiang/db/DataBaseManager.js" />
+        <option value="$PROJECT_DIR$/core/Config.js" />
+        <option value="$PROJECT_DIR$/serverconfdebug.json" />
+        <option value="$PROJECT_DIR$/serverconf.json" />
+        <option value="$PROJECT_DIR$/core/IDs.js" />
       </list>
     </option>
   </component>
@@ -292,19 +169,20 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -317,26 +195,11 @@
               <item name="sever" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sever" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sever" type="462c0819:PsiDirectoryNode" />
-              <item name="Theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sever" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sever" type="462c0819:PsiDirectoryNode" />
-              <item name="Theme" type="462c0819:PsiDirectoryNode" />
-              <item name="FangkaMajiang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sever" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sever" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,11 +270,12 @@
       <workItem from="1565276037995" duration="30000" />
       <workItem from="1565511438717" duration="5328000" />
       <workItem from="1566140353732" duration="2428000" />
+      <workItem from="1571560877241" duration="7458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19938000" />
+    <option name="totallyTimeSpent" value="27396000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -423,11 +287,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14963119" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.24973656" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -480,16 +344,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/IDs.js" />
     <entry file="file://$PROJECT_DIR$/servicesforserver/IDService.js" />
-    <entry file="file://$PROJECT_DIR$/servicesforserver/Door.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/Services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3834">
-          <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7344">
@@ -525,25 +379,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serverconf.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servicesforserver/Test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/start.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
           <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/ServiceTemplete.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Leak/1512899927479.heapsnapshot">
       <provider selected="true" editor-type-id="LargeFileEditor" />
@@ -559,42 +400,104 @@
     <entry file="file://$PROJECT_DIR$/web/MemoryLeak.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/MemoryLeakManager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/MongooseAsync.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="45" />
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
+        <state relative-caret-position="486">
           <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serverconfdebug.json">
+    <entry file="file://$PROJECT_DIR$/core/MongooseAsync.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        <state relative-caret-position="486">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Theme/FangkaMajiang/db/DataBaseManager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Weixin.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/ServerConfig.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/ServiceTemplete.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicesforserver/Door.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicesforserver/HallService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1181" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicesforserver/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../第九节6位数随机ID生成/Theme/FangkaMajiang/db/DataBaseManager.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2137">
+          <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongoose/lib/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="3509" column="10" selection-start-line="3509" selection-start-column="10" selection-end-line="3509" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverconfdebug.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverconf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/IDs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
         </state>
       </provider>
     </entry>
