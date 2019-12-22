@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7fd3e9e-e738-4ee6-8a6a-26aa2ae8bfe2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/core/Config.js" beforeDir="false" afterPath="$PROJECT_DIR$/core/Config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serverconf.json" beforeDir="false" afterPath="$PROJECT_DIR$/serverconf.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serverconfdebug.json" beforeDir="false" afterPath="$PROJECT_DIR$/serverconfdebug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/Scenes/Login.fire" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/Scenes/Login.fire" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/Scenes/Login.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/Scenes/Login.fire.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/common/AutoReconnectWsRpcClient.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/common/AutoReconnectWsRpcClient.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/common/CreatorHelper.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/common/CreatorHelper.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/common/EventEmitter.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/common/EventEmitter.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/common/MD5.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/common/MD5.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/common/NewScript.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/common/NewScript.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/common/UnitTools.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/common/UnitTools.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/common/WsRpcClient.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/common/WsRpcClient.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/image/login/bg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/image/login/bg.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/image/login/weixindl-556-632.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/image/login/weixindl-556-632.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/image/login/weixindl2-504-616.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/image/login/weixindl2-504-616.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/scriptes/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../client/assets/resources/scriptes/lobby/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/assets/resources/scriptes/Login.js.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/settings/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/../client/settings/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/MemoryLeak.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/MemoryLeak.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,14 +76,61 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="351465615">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="93" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="93" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/IDs.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="675">
-              <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+              <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/MemoryLeak.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
         </entry>
@@ -78,8 +138,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/Config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="540">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -105,7 +165,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/Services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2137">
+            <state relative-caret-position="817">
               <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
             </state>
           </provider>
@@ -144,6 +204,7 @@
         <option value="$PROJECT_DIR$/serverconfdebug.json" />
         <option value="$PROJECT_DIR$/serverconf.json" />
         <option value="$PROJECT_DIR$/core/IDs.js" />
+        <option value="$PROJECT_DIR$/web/Api.js" />
       </list>
     </option>
   </component>
@@ -193,7 +254,7 @@
             <path>
               <item name="sever" type="b2602c69:ProjectViewProjectNode" />
               <item name="sever" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,11 +332,12 @@
       <workItem from="1565511438717" duration="5328000" />
       <workItem from="1566140353732" duration="2428000" />
       <workItem from="1571560877241" duration="7458000" />
+      <workItem from="1575691021411" duration="2814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27396000" />
+    <option name="totallyTimeSpent" value="30210000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,7 +352,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14963119" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10695469" />
       <window_info id="Structure" order="1" weight="0.24973656" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -397,13 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/MemoryLeak.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/MemoryLeakManager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -456,20 +511,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../第九节6位数随机ID生成/Theme/FangkaMajiang/db/DataBaseManager.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/Services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2137">
-          <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/第九节6位数随机ID生成/Theme/FangkaMajiang/db/DataBaseManager.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/mongoose/lib/model.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="3509" column="10" selection-start-line="3509" selection-start-column="10" selection-end-line="3509" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/IDs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -487,17 +547,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/Config.js">
+    <entry file="file://$PROJECT_DIR$/core/Services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        <state relative-caret-position="817">
+          <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/IDs.js">
+    <entry file="file://$PROJECT_DIR$/web/Api.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        <state relative-caret-position="405">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/MemoryLeak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

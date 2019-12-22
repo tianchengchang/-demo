@@ -1,24 +1,33 @@
+/**
+ * Created by litengfei on 2017/12/10.
+ */
 var express = require("express");
 var app = express();
-var MemoryLeakManager = require("./../core/MemoryLeakManager.js");  //监听内存泄漏的模块
+var MemoryLeakManager = require("./../core/MemoryLeakManager.js")
 
-app.get("/hello", function(req, res){
+class BigData{
+    constructor(){
+        this.data = "实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐实得分红烧豆腐红烧豆腐红烧豆腐"
+    }
+}
+
+var buffer = [];
+app.get("/hello",function (req,res) {
+    for(var i = 0;i<100000;i++) {
+        buffer.push(new BigData())
+    }
     res.send("调用成功");
+})
+
+app.listen(3000)
+
+process.on('uncaughtException', function (err) {
+    console.log(err.stack)
 });
 
-//监听的端口
-app.listen(3000);
+MemoryLeakManager.autoWatchMemory(__dirname+"//leak//")
 
-//错误输出
-process.on("uncaughtException", function(err){
-    //console.log(err.message);    //错误信息
-    console.log(err.stack);     //错误堆栈
-});
 
-//定时器（10秒后调用）
-// setTimeout(function(){
-//     //输出内存泄漏信息
-//     MemoryLeakManager.writeMemory(__dirname + "//leak//");   //__dirname表示当前文件夹（web），leak必须是已经创建好的文件夹
-// }, 10000);
-// var a = "";
-// a.hello();
+
+
+
